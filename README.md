@@ -1,8 +1,7 @@
 
 
--------Window Application------
-
-Gym Mangement Project
+#Window Application
+@Gym Mangement Project
 
 It contains
 1] Home Page
