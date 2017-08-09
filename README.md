@@ -5,7 +5,7 @@
 
 It contains  
 *1] Home Page*  
-*2] Form Page*  
+*2] Form*  
 *3] About Page*  
 *4] BMI(Body Mass Index) Calculator*  
 *5] Admin Login Page*  
