@@ -13,7 +13,7 @@ It contains
   - *8] Sign Up Page*  
 
 ```
-**Admin Login**  
+**Admin Login**
 *username = "neeraj"  
 *password = "sharma"  
 ```
