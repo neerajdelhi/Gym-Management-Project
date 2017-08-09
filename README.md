@@ -13,9 +13,9 @@ It contains
   - *8] Sign Up Page*  
 
 ```
---Admin Login--
-*username = "neeraj"  
-*password = "sharma"  
+Admin Login
+username = "neeraj"  
+password = "sharma"  
 ```
 
 Play with and Spread enjoy!
