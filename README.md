@@ -12,10 +12,10 @@ It contains
 *6] User Login Page*  
 *8] Sign Up Page*  
 
-...  
+```
 **Admin Login**  
 *username = "neeraj"  
-*password = "sharma"
-...
+*password = "sharma"  
+```
 
 Play with and Spread enjoy!
